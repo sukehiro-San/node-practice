@@ -3,12 +3,17 @@
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":""
+    "start": ""
   },
   "version": "1.0.0",
   "main": "index.js",
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/sukehiro-San/node-practice)",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-status-monitor": "^1.3.4",
+    "url": "^0.11.4"
+  }
 }
